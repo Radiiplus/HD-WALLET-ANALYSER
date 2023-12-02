@@ -9,9 +9,11 @@ To see the tool in action, check the image below:![Tool @ Work](https://github.c
 **Install the following libraries:**
 - Pycryptodome- Mnemonic- bip32utils- base58- requests
 
-```bashpip install pycryptodome mnemonic bip32utils base58 requests```
+```pip install pycryptodome mnemonic bip32utils base58 requests```
 
-**Clone this repository:**[https://github.com/Radiiplus/HD-WALLET-ANALYSER](https://github.com/Radiiplus/HD-WALLET-ANALYSER)
+**Clone this repository:**
+
+[https://github.com/Radiiplus/HD-WALLET-ANALYSER](https://github.com/Radiiplus/HD-WALLET-ANALYSER)
 
 **Run the script using python3.**
 > *Future Enhancements:*> The tool is planned to be updated to export wallet information to a file if it identifies a wallet with BTC. For questions or suggestions, contact radiiplus@gmail.com.
