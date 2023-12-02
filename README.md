@@ -16,7 +16,7 @@ To see the tool in action, check the image below:![Tool @ Work](https://github.c
 [https://github.com/Radiiplus/HD-WALLET-ANALYSER](https://github.com/Radiiplus/HD-WALLET-ANALYSER)
 
 **Run the script using python3.**
-> *Future Enhancements:*> The tool is planned to be updated to export wallet information to a file if it identifies a wallet with BTC. For questions or suggestions, contact radiiplus@gmail.com.
+> *Future Enhancements:*> The tool is planned to be updated to export wallet information to a file if it identifies a wallet with balance. For questions or suggestions, contact radiiplus@gmail.com.
 
 *If you find this tool useful, consider supporting its maintenance through a donation.*
 
