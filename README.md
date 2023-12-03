@@ -16,7 +16,7 @@ To see the tool in action, check the image below:![Tool @ Work](https://github.c
 [https://github.com/Radiiplus/HD-WALLET-ANALYSER](https://github.com/Radiiplus/HD-WALLET-ANALYSER)
 
 **Run the script using python3.**
-> *Future Enhancements:*> The tool is planned to be updated to export wallet information to a file if it identifies a wallet with balance. For questions or suggestions, contact radiiplus@gmail.com.
+> *Update:*> Exporting of wallet details if it contains more than 0 satoshis and also also a rate limit due to blockchain's rules but you can use your own node if you like, just don't wreck the code while trying 🤷😅. For questions or suggestions, contact radiiplus@gmail.com.
 
 *If you find this tool useful, consider supporting its maintenance through a donation.*
 
